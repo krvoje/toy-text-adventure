@@ -1,0 +1,1 @@
+A toy text adventure implementation in Rust

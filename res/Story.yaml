@@ -1,0 +1,18 @@
+---
+scenes:
+  Kabina:
+    is_first_scene: true
+    name: Kabina
+    description: >
+      Sjedimo u brodu, i nema ništa na podu. Samo krevet, i na zidu broj devet. Prozor je okrugli, al' se zvijezde iza njega gnijezde.
+      Zahod je sklopljen, iznad njega pipa kapa.
+    items:
+      Krevet:
+        name: Krevet
+        description: Nek tebi kušin bude stina, pizda ti materina.
+      Prozor:
+        name: Prozor
+        description: Sedam mora, sedam gora, pregazit ću ja - mislim da vidim Velikog Medvjeda!
+      Zahod:
+        name: Zahod
+        description: Rasklopivi kabinski zahod, na njemu broj osam - gurni nos unutra, ostat će ti posran!
